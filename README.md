@@ -54,3 +54,14 @@ Cấu hình mạng trong Ubuntu (và công cụ giả lập) để cho phép tru
 SSH đã được cài & đang chạy, port 22 đang mở trong ubuntu
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f750115-bffb-4405-9c07-2357d2296a58" />
 
+SSH thành công từ windows
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8773694a-2a02-4e3c-af47-09abf31f53d5" />
+
+Cài docker:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45d1a2d5-e2b8-436d-8205-88d615225081" />
+
+Kiểm tra lại:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/717e5606-7733-42f7-a18a-3a9316ab4d1e" />
+
+Thêm user vào docker group
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ec9b1d3-92f9-4d80-8f88-5500b789619f" />
