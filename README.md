@@ -41,5 +41,9 @@ deadline : 23h59 ngày 13 tháng 4 năm 2026.
 
 1. Cài đặt hệ điều hành Ubuntu 24.04.4 LTS thành công 
 
+Máy ảo đã boot OK
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8f73c1a-7136-498a-aa61-fe2b4fc14848" />
+
+Đăng nhập:
+<img width="1535" height="899" alt="image" src="https://github.com/user-attachments/assets/330ccdce-8d75-40b1-96d5-dbfff299b87a" />
 
