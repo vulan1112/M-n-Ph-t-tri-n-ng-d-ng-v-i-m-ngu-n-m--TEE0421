@@ -24,3 +24,12 @@ deadline : 23h59 ngày 13 tháng 4 năm 2026.
 =>> **Sau thời gian đợi khoảng 5-10 phút thì thu được kết quả:(Tên miền của bạn hiện đã được bảo vệ bởi Cloudflare)**
    
    <img width="1920" height="1075" alt="image" src="https://github.com/user-attachments/assets/37745c57-9509-4b81-b62b-f4113f28e2fe" />
+
+***B. Cài đặt Ubuntu + Docker***
+
+**Khởi tạo mới hyper-V**
+
+<img width="1408" height="1004" alt="image" src="https://github.com/user-attachments/assets/5a748c3d-f391-42b6-9c43-5e7344ce7377" />
+
+
+
