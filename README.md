@@ -65,3 +65,9 @@ Kiểm tra lại:
 
 Thêm user vào docker group
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ec9b1d3-92f9-4d80-8f88-5500b789619f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10d4df87-7404-44b4-8359-c115a82cf760" />
+
+Mở port và kiểm tra port
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/12d1b108-3b3c-4d6a-936d-8805980fc501" />
+
