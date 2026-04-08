@@ -39,3 +39,7 @@ deadline : 23h59 ngày 13 tháng 4 năm 2026.
 
 <img width="1908" height="1074" alt="image" src="https://github.com/user-attachments/assets/cd9af52d-4165-4754-9507-4e02af8b962e" />
 
+1. Cài đặt hệ điều hành Ubuntu 24.04.4 LTS thành công 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8f73c1a-7136-498a-aa61-fe2b4fc14848" />
+
