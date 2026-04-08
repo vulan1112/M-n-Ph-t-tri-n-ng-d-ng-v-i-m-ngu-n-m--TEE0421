@@ -47,3 +47,10 @@ Máy ảo đã boot OK
 Đăng nhập:
 <img width="1535" height="899" alt="image" src="https://github.com/user-attachments/assets/330ccdce-8d75-40b1-96d5-dbfff299b87a" />
 
+Cấu hình mạng trong Ubuntu (và công cụ giả lập) để cho phép truy cập SSH vào Ubuntu từ cmd của windows.
+
+<img width="1506" height="1075" alt="image" src="https://github.com/user-attachments/assets/cbea188d-a8bc-4ee2-b3c6-be75bb054bb0" />
+
+SSH đã được cài & đang chạy, port 22 đang mở trong ubuntu
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f750115-bffb-4405-9c07-2357d2296a58" />
+
