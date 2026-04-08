@@ -3,7 +3,7 @@ VU LAN_K225480106036_Phát triển ứng dụng với mã nguồn mở_bài tậ
 
 deadline : 23h59 ngày 13 tháng 4 năm 2026.
 
-***A. Đăng ký tên miền xịn cho cá nhân:***
+****A. Đăng ký tên miền xịn cho cá nhân:****
 
 1.**Đăng ký domain xịn**
    
@@ -39,13 +39,13 @@ deadline : 23h59 ngày 13 tháng 4 năm 2026.
 
 <img width="1908" height="1074" alt="image" src="https://github.com/user-attachments/assets/cd9af52d-4165-4754-9507-4e02af8b962e" />
 
-1. Cài đặt hệ điều hành Ubuntu 24.04.4 LTS thành công 
+**1.Cài đặt hệ điều hành Ubuntu 24.04.4 LTS thành công** 
 
 Máy ảo đã boot OK
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8f73c1a-7136-498a-aa61-fe2b4fc14848" />
 
-2.Tìm hiểu các lệnh cơ bản của ubuntu
+**2.Tìm hiểu các lệnh cơ bản của ubuntu**
 
 Đăng nhập:
 
@@ -63,11 +63,11 @@ SSH thành công từ windows
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8773694a-2a02-4e3c-af47-09abf31f53d5" />
 
-3.Cài docker cho Ubuntu:
+**3.Cài docker cho Ubuntu:**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45d1a2d5-e2b8-436d-8205-88d615225081" />
 
-4.Kiểm tra phiên bản docker vừa cài đặt, kiểm tra phiên bản của docker compose
+**4.Kiểm tra phiên bản docker vừa cài đặt, kiểm tra phiên bản của docker compose**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/717e5606-7733-42f7-a18a-3a9316ab4d1e" />
 
@@ -75,15 +75,15 @@ Thêm user vào docker group
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ec9b1d3-92f9-4d80-8f88-5500b789619f" />
 
-5.Cấu hình để docker chạy mà không cần tiền tố sudo
+**5.Cấu hình để docker chạy mà không cần tiền tố sudo**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10d4df87-7404-44b4-8359-c115a82cf760" />
 
-6.Tìm hiểu tập lệnh của docker và docker compose
+**6.Tìm hiểu tập lệnh của docker và docker compose**
  
  Đã thực hành trong quá trình làm bài
  
-7.Đảm bảo tường lửa trên Ubuntu đã cho phép các cổng 80, 1880, 9630 (Lệnh: sudo ufw allow ...)
+**7.Đảm bảo tường lửa trên Ubuntu đã cho phép các cổng 80, 1880, 9630 (Lệnh: sudo ufw allow ...)**
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/12d1b108-3b3c-4d6a-936d-8805980fc501" />
 
