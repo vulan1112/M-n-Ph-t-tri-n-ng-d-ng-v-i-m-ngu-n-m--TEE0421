@@ -35,4 +35,7 @@ deadline : 23h59 ngày 13 tháng 4 năm 2026.
 
 <img width="1718" height="1071" alt="image" src="https://github.com/user-attachments/assets/52d7f4c4-5dd2-40cd-9140-c6b83707a2fd" />
 
+**Khởi tạo máy ảo**
+
+<img width="1908" height="1074" alt="image" src="https://github.com/user-attachments/assets/cd9af52d-4165-4754-9507-4e02af8b962e" />
 
