@@ -92,3 +92,12 @@ Vượt tường lửa truy cập trình duyệt qua host cho phép trên Ubuntu
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74bedb28-08f5-4297-9e44-16e5adefa826" />
 
 ***C. Cấu hình docker compose:***
+
+5. Tạo file docker-compose.yml để nó sẽ có các dịch vụ sau:
+Khai báo sử dụng nodered/node-red, cổng 1880, dữ liệu nằm tại thư mục ./nodered
+Khai báo sử dụng nginx, cổng 80, cấu hình trong file ./nginx/nginx.conf
+Mount thư mục ./myweb thành thư mục /myweb trong nginx
+Mount file ./nginx/nginx.conf vào file /etc/nginx/nginx.conf trong nginx
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99eb225b-f715-4ff9-b5b7-575bdccdc921" />
+
