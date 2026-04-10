@@ -48,3 +48,6 @@ Phần này đã làm trước đó giờ chạy lại
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9411a245-1dd1-4273-a40a-0bf6607d9191" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/289aa5ea-7f2d-4225-8b04-0a8aca1e304a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bab3f9b-0d23-485d-9eea-87ee95cea849" />
