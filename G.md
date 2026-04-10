@@ -19,3 +19,25 @@ Kết quả tính
 <img width="1920" height="1063" alt="image" src="https://github.com/user-attachments/assets/ef078bd0-a8b9-4042-bad0-77090c114c6d" />
 
 2. Convert lệnh docker run ... sang dạng docker compose
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc6a74b3-1a52-4cea-94cb-b2d3a9c4a9ed" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf56a8b6-5f93-4da1-923e-fa6557aec0a9" />
+
+3. Khai báo kết quả convert vào trong file docker-compose.yml
+
+Phần này đã làm trước đó giờ chạy lại
+
+<img width="1920" height="463" alt="image" src="https://github.com/user-attachments/assets/ed360973-9159-4ffc-972b-09e744c5290f" />
+
+4. Chạy lại docker compose
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa5293ab-0da3-4198-b94a-d08edc71b099" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b48e1201-1f0d-436c-ad66-4773b14737b9" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95a4c39a-4a34-446f-8e2c-2f11e5c9c055" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0ef96cb-934a-492c-b0d4-b09f4d1e299c" />
+
+5.Public ứng dụng bằng cách thêm 1 router trỏ tới container đang chạy trong docker, dữ liệu sẽ đi qua tunnel, url dạng sub-domain
