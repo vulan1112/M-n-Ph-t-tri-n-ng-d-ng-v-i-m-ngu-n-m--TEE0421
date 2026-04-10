@@ -41,3 +41,10 @@ Phần này đã làm trước đó giờ chạy lại
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0ef96cb-934a-492c-b0d4-b09f4d1e299c" />
 
 5.Public ứng dụng bằng cách thêm 1 router trỏ tới container đang chạy trong docker, dữ liệu sẽ đi qua tunnel, url dạng sub-domain
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1229b64f-f022-4432-9c9e-dd00dedc87b1" />
+
+<img width="1920" height="1073" alt="image" src="https://github.com/user-attachments/assets/7a3c6692-45f6-461b-9cd9-b253172d9a47" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9411a245-1dd1-4273-a40a-0bf6607d9191" />
+
