@@ -54,8 +54,4 @@ Phần này đã làm trước đó giờ chạy lại
 
 6.Kiểm tra url sub-domain đã hoạt động public cho mọi end-user
 
-SSH CỐ ĐỊNH: ssh ubuntu-server 
-
-thay cho ip thay đổi liên tục mỗi lần vào.
-
 <img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/af0f38e4-e05c-466f-be1c-b0ac79c79a2a" />
