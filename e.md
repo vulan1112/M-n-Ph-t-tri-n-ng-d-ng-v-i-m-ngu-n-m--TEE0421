@@ -43,3 +43,7 @@ VU LAN_K225480106036_Phát triển ứng dụng với mã nguồn mở_bài tậ
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d36109c2-da86-43f1-b48d-fcbf865148e3" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/014064c6-1f43-488b-8246-c4c290b03f9e" />
+
+Phần làm thêm : Giao diện tính toán + - x : 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9aad9489-997b-44b3-a1e1-6e71034d1772" />
