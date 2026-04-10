@@ -45,6 +45,8 @@ Máy ảo đã boot OK
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8f73c1a-7136-498a-aa61-fe2b4fc14848" />
 
+<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/26ccbab1-5704-4405-a23c-ab00d41f4970" />
+
 **2.Tìm hiểu các lệnh cơ bản của ubuntu**
 
 Đăng nhập:
