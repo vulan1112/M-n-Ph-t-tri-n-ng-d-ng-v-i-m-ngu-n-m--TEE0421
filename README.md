@@ -25,6 +25,10 @@ deadline : 23h59 ngày 13 tháng 4 năm 2026.
    
    <img width="1920" height="1075" alt="image" src="https://github.com/user-attachments/assets/37745c57-9509-4b81-b62b-f4113f28e2fe" />
 
+
+
+em không đọc đoạn cuối là phải tách lên làm một mạch đoạn này ạ
+
 ***B. Cài đặt Ubuntu + Docker***
 
 **Khởi tạo mới hyper-V**
